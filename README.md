@@ -1,5 +1,9 @@
-FSL `oxford_asl` (and `fsl_anat`) docker image 
-==============================================
+FSL `oxford_asl` docker image
+[![GitHub release](https://img.shields.io/github/v/release/jhuguetn/fsl_oxford_asl-docker
+?logo=github)](https://github.com/jhuguetn/fsl_oxford_asl-docker/releases)
+[![DockerHub pulls](https://img.shields.io/docker/pulls/jhuguetn/fsl_oxford_asl?logo=docker)](
+https://hub.docker.com/r/jhuguetn/fsl_oxford_asl/tags)    
+=============================
 Docker image including a minimal selection of FSL 6.0.7.7 packages required 
 to run `oxford_asl` tools from [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL) 
 library.  
